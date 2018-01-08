@@ -1,4 +1,4 @@
-# NgCourse
+# Sample Node Seed 
 
 // require linux based system
 
@@ -28,5 +28,3 @@ localhost:3003/api/v1/userapi/fetchData
 
 Thanks
 
-Contact me : shashwat.company@gmail.com
-Mob        : 8920832260

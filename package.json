@@ -1,5 +1,5 @@
 {
-    "name": "ngcourse",
+    "name": "Sample Node Seed",
     "version": "0.0.1",
     "description": "website backend ( NO SQL ) - MongoDB",
     "main": "server.js",
@@ -26,6 +26,6 @@
     "keywords": [
         "node"
     ],
-    "author": "shashwat gupta",
+    "author": "Neeraj Kumar",
     "license": "ISC"
 }
